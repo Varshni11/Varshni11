@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@varshnin3](https://medium.com/@varshnin3)
 
-- 💬 Ask me about **Python, flask**
+- 💬 Ask me about **Python, flask, fastapi**
 
 - 📫 How to reach me **varshnin3@gmail.com**
 
